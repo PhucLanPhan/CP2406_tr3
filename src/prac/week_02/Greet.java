@@ -1,4 +1,4 @@
-package prac;
+package prac.week_02;
 
 import textio.TextIO;
 

@@ -1,4 +1,4 @@
-package prac;
+package prac.week_02;
 
 public class Dice {
     public static void main(String[] args) {
