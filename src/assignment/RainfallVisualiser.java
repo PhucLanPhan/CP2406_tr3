@@ -17,7 +17,7 @@ import static java.lang.Double.parseDouble;
 /**
  * Author: Phuc Lan Phan
  * version: 19.0
- * Git URL:
+ * Git URL: https://github.com/PhucLanPhan/CP2406_tr3.git
  */
 
 public class RainfallVisualiser extends Application {

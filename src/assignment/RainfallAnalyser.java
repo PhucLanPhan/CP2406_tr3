@@ -9,10 +9,9 @@ import java.util.Scanner;
 
 public class RainfallAnalyser {
     /**
-     * Author:
-     * Version:
-     * Date:
-     * Git URL:
+     * Author: Phuc Lan Phan
+     * Version: 19.0
+     * Git URL:https://github.com/PhucLanPhan/CP2406_tr3.git
      */
 
     //define constants
